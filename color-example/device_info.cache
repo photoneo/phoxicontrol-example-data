@@ -1,0 +1,12 @@
+{
+	"alpha" : false,
+	"color" : true,
+	"fw_version" : "1.9.0",
+	"id" : "InstalledExamples-color-example",
+	"interlock" : false,
+	"laser_color" : "Red",
+	"teensy_version_int" : 1004006,
+	"teensy_version_string" : "0001.0004.0006",
+	"type" : "MotionCam-3D",
+	"variant" : "M+"
+}

@@ -1,0 +1,12 @@
+{
+	"alpha" : false,
+	"color" : false,
+	"fw_version" : "1.2.4",
+	"id" : "InstalledExamples-basic-example",
+	"interlock" : false,
+	"laser_color" : "Red",
+	"teensy_version_int" : 1001026,
+	"teensy_version_string" : "0001.0001.0026",
+	"type" : "PhoXi3DScan",
+	"variant" : "M"
+}
